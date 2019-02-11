@@ -9,4 +9,10 @@
 
 Untuk berkontribusi, silahkan cek [contributing.md](contributing.md)
 
+## Pengakuan Penggunaan
+
+Data awal yang digunakan pada [istilah.md](istilah.md) diambil dari:
+
+- https://id.m.wikipedia.org/wiki/Daftar_istilah_teknologi_informasi
+
 Untuk mengetahui kumpulan istilah dan padanan yang sudah dianggap final, silahkan buka [di sini](istilah.md) 
