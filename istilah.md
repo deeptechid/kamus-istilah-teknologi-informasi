@@ -73,6 +73,7 @@
 - Monitor = Monitor
 - Load = Muat
 - Jailbreak = Menjebol kungkungan
+- Maker = Pembuat
 
 # P
 - Keyboard = Papan Ketik
@@ -114,6 +115,7 @@
 - Server = Server
 - Web server = Server web
 - Proxy server = Server proksi
+- Software Engineer = Insinyur Perangkat Lunak
 
 # T
 - runtime = Tempo kerja
@@ -127,6 +129,7 @@
 
 # W
 - Worm = Worm
+- Web Developer = Pengembang Web
 
 
 # Istilah Tidak Baku
