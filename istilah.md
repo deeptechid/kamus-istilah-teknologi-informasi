@@ -73,7 +73,6 @@
 - Monitor = Monitor
 - Load = Muat
 - Jailbreak = Menjebol kungkungan
-- Maker = Pembuat
 
 # P
 - Keyboard = Papan Ketik
