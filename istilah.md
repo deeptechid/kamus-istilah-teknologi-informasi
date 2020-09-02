@@ -74,6 +74,9 @@
 - Load = Muat
 - Jailbreak = Menjebol kungkungan
 
+# N
+- Default = Nilai Anggapan
+
 # P
 - Keyboard = Papan Ketik
 - Pointing device = Peranti penunjuk
