@@ -7,7 +7,7 @@
 - Algorithm = Algoritme
 
 # B
-- Database = Basis data
+- Database = Pangkalan data
 - File = Berkas
 - Byte = Bita
 - Track ball = Bola jejak
@@ -36,6 +36,9 @@
 - File = Berkas komputer
 - Font = Fon
 
+# G
+- Error = Galat
+
 # H
 - Copyright = Hak cipta
 - Home = Halaman Utama
@@ -51,6 +54,7 @@
 - Artificial Intelligence = Kecerdasan buatan
 - Chip = Keping
 - Clone = Klon
+- Cookie = Kuki
 - Analog computer = Komputer analog
 - Mainframe computer = Komputer bingkai utama; Komputer kerangka induk
 - Personal computer = Komputer pribadi
@@ -96,6 +100,7 @@
 - Pointing device = Peranti penunjuk
 - Baseband = Pita basis
 - Preview = Pratayang
+- Proxy = Proksi
 
 # R
 - Crack = Rengkah
