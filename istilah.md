@@ -7,6 +7,7 @@
 - Algorithm = Algoritme
 
 # B
+- Browser = Peramban
 - Database = Basis data
 - File = Berkas
 - Byte = Bita
